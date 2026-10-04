@@ -1,0 +1,1201 @@
+feedback_id,review_text,category,sentiment
+FB-1000,"In my experience, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1001,"Overall, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1002,"Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1003,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1004,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-1005,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1006,"Honestly, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1007,"Honestly, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1008,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1009,Submitting tasks and receiving verification certificates was very smooth.,Portal/LMS,Positive
+FB-1010,"Regarding the internship, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1011,Curriculum is standard; covers typical scikit-learn and web basics.,Curriculum,Neutral
+FB-1012,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1013,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1014,"Overall, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1015,"In my experience, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1016,"In my experience, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1017,"Honestly, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1018,"Regarding the internship, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1019,"In my experience, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1020,"Overall, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1021,"Overall, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1022,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1023,"Regarding the internship, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1024,The assignment guidelines and acceptance criteria were clear and detailed.,Task Clarity,Positive
+FB-1025,Pacing is acceptable if you already have prior Python exposure.,Workload/Pacing,Neutral
+FB-1026,The assignment guidelines and acceptance criteria were clear and detailed.,Task Clarity,Positive
+FB-1027,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1028,"Overall, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1029,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1030,"Overall, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1031,"In my experience, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1032,"Regarding the internship, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1033,"Honestly, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1034,"In my experience, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1035,"Honestly, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1036,Loved how well-scoped the project deliverables were from day one.,Task Clarity,Positive
+FB-1037,"Regarding the internship, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1038,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1039,"Overall, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1040,"Honestly, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1041,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1042,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1043,"In my experience, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1044,Submitting tasks and receiving verification certificates was very smooth.,Portal/LMS,Positive
+FB-1045,"Overall, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1046,"Honestly, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1047,"Overall, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1048,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1049,"Regarding the internship, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1050,Loved how well-scoped the project deliverables were from day one.,Task Clarity,Positive
+FB-1051,"Regarding the internship, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1052,"Regarding the internship, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1053,"Overall, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1054,"Regarding the internship, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1055,"Honestly, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1056,"Regarding the internship, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1057,"Overall, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1058,"Overall, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1059,"Overall, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1060,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1061,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1062,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1063,"Regarding the internship, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1064,"Regarding the internship, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1065,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1066,"In my experience, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1067,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1068,"Overall, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1069,"Overall, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1070,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1071,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-1072,"Regarding the internship, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1073,"In my experience, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1074,"In my experience, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1075,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1076,"Regarding the internship, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1077,"Overall, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1078,"Honestly, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1079,"In my experience, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1080,"In my experience, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1081,"Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1082,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1083,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-1084,"Honestly, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1085,"In my experience, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1086,"Overall, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1087,"Overall, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1088,"In my experience, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1089,"Regarding the internship, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1090,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1091,"Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1092,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1093,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1094,Average guidance; mostly referred to standard documentation links.,Mentorship,Neutral
+FB-1095,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1096,"Honestly, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1097,"In my experience, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1098,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1099,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1100,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1101,"Overall, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1102,"In my experience, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1103,The dashboard kept crashing when trying to preview assignment status.,Portal/LMS,Negative
+FB-1104,"Overall, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1105,"The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1106,"Overall, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1107,"In my experience, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1108,"Regarding the internship, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1109,"Overall, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1110,Review feedback was superficial with no constructive code critiques.,Mentorship,Negative
+FB-1111,"Regarding the internship, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1112,"In my experience, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1113,"In my experience, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1114,"Regarding the internship, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1115,"Honestly, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1116,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1117,Standard submission dashboard; gets the job done without issues.,Portal/LMS,Neutral
+FB-1118,"Honestly, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1119,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1120,"Honestly, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1121,"Overall, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1122,"Overall, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1123,"In my experience, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1124,"Overall, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1125,"Overall, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1126,"Regarding the internship, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1127,"Overall, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1128,"Honestly, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1129,"Overall, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1130,"Honestly, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-1131,Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.,Workload/Pacing,Negative
+FB-1132,Excellent project roadmap covering complete end-to-end pipelines.,Curriculum,Positive
+FB-1133,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1134,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1135,"Regarding the internship, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1136,"Overall, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1137,"In my experience, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1138,"Honestly, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1139,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1140,"Regarding the internship, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1141,"Overall, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1142,Project assignments bridged the gap between academic theory and production.,Curriculum,Positive
+FB-1143,"Regarding the internship, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1144,"Regarding the internship, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1145,Tutorial resources were broken links and lacked modern framework coverage.,Curriculum,Negative
+FB-1146,"Honestly, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1147,"Regarding the internship, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1148,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1149,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1150,Excellent project roadmap covering complete end-to-end pipelines.,Curriculum,Positive
+FB-1151,"Regarding the internship, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1152,"Overall, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1153,"Regarding the internship, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1154,"Regarding the internship, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1155,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1156,"Honestly, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1157,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1158,"Honestly, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1159,"Overall, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1160,"In my experience, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1161,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1162,"In my experience, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1163,"Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1164,"Honestly, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1165,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1166,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-1167,"Regarding the internship, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1168,"In my experience, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1169,"Overall, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1170,"Regarding the internship, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1171,Outdated library versions referenced in tasks caused dependency installation failures.,Curriculum,Negative
+FB-1172,Certificate download link was broken and login sessions expired repeatedly.,Portal/LMS,Negative
+FB-1173,The curriculum felt repetitive and lacked practical engineering depth.,Curriculum,Negative
+FB-1174,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1175,Requirements contradicted each other between the portal description and task PDF.,Task Clarity,Negative
+FB-1176,"Overall, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1177,"Regarding the internship, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1178,"In my experience, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1179,"Overall, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1180,"Honestly, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1181,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1182,"Overall, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1183,"Honestly, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1184,"Regarding the internship, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1185,Standard submission dashboard; gets the job done without issues.,Portal/LMS,Neutral
+FB-1186,"In my experience, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1187,"Honestly, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1188,"Honestly, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1189,Project assignments bridged the gap between academic theory and production.,Curriculum,Positive
+FB-1190,"In my experience, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1191,"Honestly, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1192,"The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1193,The mentors were extremely supportive and answered queries within hours.,Mentorship,Positive
+FB-1194,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1195,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1196,"Honestly, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1197,"Overall, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1198,"Overall, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1199,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1200,"Honestly, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1201,Excellent project roadmap covering complete end-to-end pipelines.,Curriculum,Positive
+FB-1202,"Regarding the internship, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1203,"Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1204,Certificate download link was broken and login sessions expired repeatedly.,Portal/LMS,Negative
+FB-1205,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1206,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1207,"Overall, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1208,"In my experience, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1209,"In my experience, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1210,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1211,"Honestly, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1212,"Honestly, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1213,"Overall, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1214,LMS resources were easy to navigate and accessible 24/7.,Portal/LMS,Positive
+FB-1215,"Regarding the internship, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1216,"Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1217,Curriculum is standard; covers typical scikit-learn and web basics.,Curriculum,Neutral
+FB-1218,"In my experience, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1219,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1220,"Overall, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1221,"Overall, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1222,Requirements contradicted each other between the portal description and task PDF.,Task Clarity,Negative
+FB-1223,"Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1224,"Regarding the internship, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1225,"Overall, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1226,"Regarding the internship, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1227,"Overall, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1228,"In my experience, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1229,"Overall, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1230,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1231,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1232,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1233,"Regarding the internship, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1234,"Overall, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1235,"Honestly, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1236,"Regarding the internship, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1237,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1238,"In my experience, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1239,"Regarding the internship, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1240,Requirements contradicted each other between the portal description and task PDF.,Task Clarity,Negative
+FB-1241,Loved how well-scoped the project deliverables were from day one.,Task Clarity,Positive
+FB-1242,"In my experience, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1243,The curriculum felt repetitive and lacked practical engineering depth.,Curriculum,Negative
+FB-1244,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1245,"Regarding the internship, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1246,"Regarding the internship, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1247,"Regarding the internship, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1248,"Honestly, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1249,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1250,"Regarding the internship, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1251,"Overall, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1252,"Overall, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1253,Outdated library versions referenced in tasks caused dependency installation failures.,Curriculum,Negative
+FB-1254,"Honestly, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1255,"Regarding the internship, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1256,The dashboard kept crashing when trying to preview assignment status.,Portal/LMS,Negative
+FB-1257,Average guidance; mostly referred to standard documentation links.,Mentorship,Neutral
+FB-1258,"Regarding the internship, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1259,"Overall, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1260,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1261,"Overall, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1262,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1263,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1264,The assignment guidelines and acceptance criteria were clear and detailed.,Task Clarity,Positive
+FB-1265,"Honestly, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1266,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1267,"Honestly, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1268,"In my experience, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1269,"Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1270,Project assignments bridged the gap between academic theory and production.,Curriculum,Positive
+FB-1271,"In my experience, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1272,"Regarding the internship, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1273,"Regarding the internship, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1274,"In my experience, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1275,"Overall, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1276,"Regarding the internship, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1277,Frequent submission upload errors and portal timeouts near deadlines.,Portal/LMS,Negative
+FB-1278,"Honestly, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1279,"Overall, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1280,"Regarding the internship, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1281,"Honestly, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1282,"Regarding the internship, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1283,"In my experience, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1284,"In my experience, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1285,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1286,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1287,"Regarding the internship, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1288,"Overall, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1289,Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.,Mentorship,Negative
+FB-1290,"In my experience, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1291,"Honestly, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1292,"In my experience, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1293,"Overall, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1294,"In my experience, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1295,"Overall, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1296,"Overall, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1297,"Regarding the internship, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1298,Pacing is acceptable if you already have prior Python exposure.,Workload/Pacing,Neutral
+FB-1299,"Overall, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1300,"In my experience, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1301,"Regarding the internship, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1302,"Overall, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1303,"In my experience, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1304,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1305,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1306,"Overall, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1307,Vague task prompts with ambiguous grading criteria and missing starter files.,Task Clarity,Negative
+FB-1308,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-1309,"Honestly, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1310,"In my experience, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1311,Vague task prompts with ambiguous grading criteria and missing starter files.,Task Clarity,Negative
+FB-1312,"Overall, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1313,"The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1314,"Overall, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1315,"Overall, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1316,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1317,Average guidance; mostly referred to standard documentation links.,Mentorship,Neutral
+FB-1318,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-1319,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1320,"Overall, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1321,"Overall, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1322,"Honestly, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1323,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1324,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1325,"Overall, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1326,Review feedback was superficial with no constructive code critiques.,Mentorship,Negative
+FB-1327,"Regarding the internship, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1328,"Regarding the internship, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1329,"Regarding the internship, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1330,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1331,"Overall, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1332,"Overall, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1333,Frequent submission upload errors and portal timeouts near deadlines.,Portal/LMS,Negative
+FB-1334,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1335,"Regarding the internship, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1336,Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.,Mentorship,Negative
+FB-1337,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-1338,"Overall, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1339,"Overall, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1340,"Regarding the internship, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1341,Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.,Workload/Pacing,Negative
+FB-1342,"Honestly, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1343,"In my experience, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1344,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1345,The mentors were extremely supportive and answered queries within hours.,Mentorship,Positive
+FB-1346,"In my experience, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1347,"In my experience, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1348,"Overall, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1349,Vague task prompts with ambiguous grading criteria and missing starter files.,Task Clarity,Negative
+FB-1350,"Regarding the internship, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1351,"Regarding the internship, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1352,"Overall, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1353,"Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1354,"Honestly, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1355,"Overall, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1356,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1357,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1358,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1359,"Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1360,"Regarding the internship, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1361,"Overall, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1362,Average guidance; mostly referred to standard documentation links.,Mentorship,Neutral
+FB-1363,"Regarding the internship, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1364,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1365,"In my experience, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1366,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1367,"Regarding the internship, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1368,"In my experience, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1369,"Overall, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1370,"In my experience, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1371,"Overall, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1372,The assignment guidelines and acceptance criteria were clear and detailed.,Task Clarity,Positive
+FB-1373,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1374,"Regarding the internship, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1375,"Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1376,"Regarding the internship, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1377,"In my experience, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1378,"In my experience, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1379,"Regarding the internship, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1380,"Overall, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1381,"Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1382,"Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1383,Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.,Mentorship,Negative
+FB-1384,"Regarding the internship, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1385,"Overall, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-1386,"Overall, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1387,"Honestly, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1388,Tutorial resources were broken links and lacked modern framework coverage.,Curriculum,Negative
+FB-1389,"In my experience, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1390,LMS resources were easy to navigate and accessible 24/7.,Portal/LMS,Positive
+FB-1391,"In my experience, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1392,"In my experience, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1393,"In my experience, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1394,"In my experience, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1395,Outdated library versions referenced in tasks caused dependency installation failures.,Curriculum,Negative
+FB-1396,Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.,Mentorship,Negative
+FB-1397,"The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1398,"In my experience, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1399,"Honestly, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1400,"Honestly, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1401,"In my experience, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1402,Review feedback was superficial with no constructive code critiques.,Mentorship,Negative
+FB-1403,"In my experience, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1404,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-1405,The assignment guidelines and acceptance criteria were clear and detailed.,Task Clarity,Positive
+FB-1406,"Regarding the internship, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1407,"Honestly, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1408,"Regarding the internship, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1409,"Regarding the internship, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1410,Requirements contradicted each other between the portal description and task PDF.,Task Clarity,Negative
+FB-1411,"Regarding the internship, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1412,"Honestly, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1413,"Overall, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1414,"Overall, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1415,"In my experience, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1416,"Regarding the internship, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1417,"Overall, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1418,"In my experience, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1419,"Regarding the internship, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1420,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1421,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1422,"Honestly, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1423,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1424,The curriculum felt repetitive and lacked practical engineering depth.,Curriculum,Negative
+FB-1425,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1426,Loved how well-scoped the project deliverables were from day one.,Task Clarity,Positive
+FB-1427,"Honestly, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-1428,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1429,"Overall, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1430,Excellent project roadmap covering complete end-to-end pipelines.,Curriculum,Positive
+FB-1431,"Honestly, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1432,"Overall, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1433,"Regarding the internship, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1434,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1435,Balanced sprint cycles that helped maintain consistent progress.,Workload/Pacing,Positive
+FB-1436,"Overall, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1437,"Regarding the internship, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1438,"Overall, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1439,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1440,"In my experience, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1441,"In my experience, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1442,"Regarding the internship, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1443,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1444,"Regarding the internship, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1445,"Honestly, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1446,The dashboard kept crashing when trying to preview assignment status.,Portal/LMS,Negative
+FB-1447,"In my experience, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1448,"In my experience, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1449,"In my experience, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1450,"Regarding the internship, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1451,"Honestly, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1452,"Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1453,"Regarding the internship, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1454,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-1455,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1456,Standard submission dashboard; gets the job done without issues.,Portal/LMS,Neutral
+FB-1457,"Regarding the internship, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1458,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1459,"Overall, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1460,Project assignments bridged the gap between academic theory and production.,Curriculum,Positive
+FB-1461,"Honestly, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1462,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1463,"Regarding the internship, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1464,"Honestly, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1465,"Regarding the internship, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1466,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-1467,"In my experience, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1468,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1469,"Overall, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1470,"Regarding the internship, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1471,"Regarding the internship, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1472,"Regarding the internship, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1473,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1474,"Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1475,"Honestly, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1476,"Overall, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1477,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1478,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1479,"Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1480,"Regarding the internship, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1481,"Regarding the internship, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1482,"Honestly, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1483,"Regarding the internship, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1484,"Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1485,"Regarding the internship, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1486,"Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1487,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1488,Requirements contradicted each other between the portal description and task PDF.,Task Clarity,Negative
+FB-1489,"Honestly, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1490,"Honestly, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1491,"Overall, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1492,"Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1493,Balanced sprint cycles that helped maintain consistent progress.,Workload/Pacing,Positive
+FB-1494,"Overall, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1495,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1496,"Overall, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1497,"In my experience, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1498,"Regarding the internship, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1499,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1500,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1501,"In my experience, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1502,"Honestly, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1503,"Overall, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1504,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1505,"Overall, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1506,"Regarding the internship, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1507,Task descriptions made it easy to deliver the required components step-by-step.,Task Clarity,Positive
+FB-1508,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1509,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1510,Average guidance; mostly referred to standard documentation links.,Mentorship,Neutral
+FB-1511,Instructions were basic; required asking follow-up questions in the group.,Task Clarity,Neutral
+FB-1512,"Regarding the internship, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1513,"Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1514,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1515,"In my experience, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1516,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-1517,"Overall, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1518,"In my experience, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1519,Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.,Workload/Pacing,Negative
+FB-1520,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1521,"In my experience, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1522,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1523,"Overall, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1524,Submitting tasks and receiving verification certificates was very smooth.,Portal/LMS,Positive
+FB-1525,"Honestly, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1526,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1527,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1528,"Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1529,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1530,"Overall, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1531,"Overall, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1532,"Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1533,"Regarding the internship, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1534,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1535,Vague task prompts with ambiguous grading criteria and missing starter files.,Task Clarity,Negative
+FB-1536,"Overall, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1537,"Regarding the internship, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1538,"Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1539,"Honestly, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1540,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1541,"Regarding the internship, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1542,"In my experience, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1543,"Regarding the internship, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1544,Task descriptions made it easy to deliver the required components step-by-step.,Task Clarity,Positive
+FB-1545,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1546,"Regarding the internship, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1547,"Overall, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1548,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1549,"Overall, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1550,"Regarding the internship, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1551,"Honestly, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1552,"In my experience, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1553,Balanced sprint cycles that helped maintain consistent progress.,Workload/Pacing,Positive
+FB-1554,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-1555,"Overall, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1556,"Honestly, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1557,"Regarding the internship, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1558,"Honestly, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1559,"In my experience, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1560,"Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1561,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1562,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1563,"In my experience, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1564,Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.,Mentorship,Negative
+FB-1565,"Regarding the internship, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1566,"Regarding the internship, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1567,"Regarding the internship, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1568,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1569,"Honestly, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1570,Submitting tasks and receiving verification certificates was very smooth.,Portal/LMS,Positive
+FB-1571,Instructions were basic; required asking follow-up questions in the group.,Task Clarity,Neutral
+FB-1572,The curriculum felt repetitive and lacked practical engineering depth.,Curriculum,Negative
+FB-1573,"Overall, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1574,"In my experience, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1575,"Regarding the internship, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1576,"In my experience, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1577,"In my experience, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1578,"Overall, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1579,"The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1580,"Overall, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1581,Standard submission dashboard; gets the job done without issues.,Portal/LMS,Neutral
+FB-1582,"Honestly, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1583,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1584,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1585,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-1586,"The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1587,"Honestly, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1588,"In my experience, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1589,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1590,Outdated library versions referenced in tasks caused dependency installation failures.,Curriculum,Negative
+FB-1591,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1592,"Overall, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1593,"Overall, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1594,"Honestly, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1595,"In my experience, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-1596,"Overall, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1597,"In my experience, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1598,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1599,"Regarding the internship, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1600,"In my experience, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1601,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1602,"Overall, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1603,Tutorial resources were broken links and lacked modern framework coverage.,Curriculum,Negative
+FB-1604,"Honestly, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1605,"Honestly, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1606,"Regarding the internship, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1607,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1608,"Regarding the internship, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1609,"Overall, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1610,"Honestly, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1611,Mentors were inactive and unhelpful; blocker questions went unanswered for a week.,Mentorship,Negative
+FB-1612,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1613,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1614,Loved how well-scoped the project deliverables were from day one.,Task Clarity,Positive
+FB-1615,"Overall, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1616,"Honestly, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1617,"Regarding the internship, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1618,"Regarding the internship, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1619,"Regarding the internship, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1620,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1621,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1622,"Overall, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1623,"Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1624,"Honestly, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1625,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1626,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1627,"Overall, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1628,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1629,"In my experience, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1630,"Honestly, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1631,"Regarding the internship, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1632,"Honestly, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1633,"In my experience, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1634,The curriculum felt repetitive and lacked practical engineering depth.,Curriculum,Negative
+FB-1635,"In my experience, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1636,"Overall, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1637,"Honestly, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1638,"The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1639,"In my experience, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1640,"Regarding the internship, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1641,"Honestly, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1642,Task descriptions made it easy to deliver the required components step-by-step.,Task Clarity,Positive
+FB-1643,"Regarding the internship, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1644,"Honestly, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1645,"Honestly, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1646,Outdated library versions referenced in tasks caused dependency installation failures.,Curriculum,Negative
+FB-1647,"Overall, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1648,"Overall, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1649,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1650,"Honestly, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1651,"Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1652,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1653,"Regarding the internship, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1654,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1655,"Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1656,"Overall, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1657,"Honestly, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1658,"In my experience, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1659,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1660,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1661,"Overall, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1662,"Regarding the internship, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1663,"Overall, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1664,"Regarding the internship, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1665,"Overall, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1666,"Honestly, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1667,"In my experience, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1668,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1669,"Overall, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1670,"Honestly, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1671,"In my experience, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1672,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1673,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1674,"Overall, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1675,"Overall, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1676,"Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1677,"In my experience, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1678,"Regarding the internship, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1679,"Regarding the internship, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1680,"Regarding the internship, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1681,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1682,"Honestly, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1683,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1684,"Overall, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1685,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1686,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1687,"Regarding the internship, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1688,"Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1689,"Regarding the internship, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1690,"Overall, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1691,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-1692,"Honestly, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1693,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1694,"Regarding the internship, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1695,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1696,Tutorial resources were broken links and lacked modern framework coverage.,Curriculum,Negative
+FB-1697,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1698,Project assignments bridged the gap between academic theory and production.,Curriculum,Positive
+FB-1699,"In my experience, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1700,"In my experience, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1701,"In my experience, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1702,"In my experience, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1703,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1704,"In my experience, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1705,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-1706,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1707,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1708,"Overall, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1709,"Regarding the internship, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1710,"In my experience, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1711,"Overall, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1712,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1713,"Regarding the internship, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1714,"Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1715,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1716,"Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1717,"Regarding the internship, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1718,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1719,"Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1720,"In my experience, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1721,Balanced sprint cycles that helped maintain consistent progress.,Workload/Pacing,Positive
+FB-1722,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1723,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1724,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1725,"Overall, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1726,"Overall, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1727,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1728,"Honestly, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1729,"In my experience, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1730,"Regarding the internship, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1731,"Regarding the internship, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1732,"Regarding the internship, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1733,"Honestly, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1734,"Overall, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1735,"In my experience, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-1736,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1737,"In my experience, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1738,Pacing is acceptable if you already have prior Python exposure.,Workload/Pacing,Neutral
+FB-1739,Submitting tasks and receiving verification certificates was very smooth.,Portal/LMS,Positive
+FB-1740,LMS resources were easy to navigate and accessible 24/7.,Portal/LMS,Positive
+FB-1741,"Overall, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1742,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1743,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1744,"Regarding the internship, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1745,"Honestly, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1746,"Honestly, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1747,"Overall, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1748,"Honestly, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1749,Excellent project roadmap covering complete end-to-end pipelines.,Curriculum,Positive
+FB-1750,"Regarding the internship, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1751,"Honestly, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1752,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1753,"In my experience, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1754,"Regarding the internship, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1755,"Overall, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1756,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1757,"Regarding the internship, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1758,"Honestly, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1759,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1760,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1761,Vague task prompts with ambiguous grading criteria and missing starter files.,Task Clarity,Negative
+FB-1762,"Regarding the internship, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1763,"Honestly, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1764,Excessive volume of deliverables required within an unreasonable two-day window.,Workload/Pacing,Negative
+FB-1765,"In my experience, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1766,The dashboard kept crashing when trying to preview assignment status.,Portal/LMS,Negative
+FB-1767,"Overall, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1768,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1769,"Honestly, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1770,"Regarding the internship, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1771,"In my experience, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1772,"Overall, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1773,Average guidance; mostly referred to standard documentation links.,Mentorship,Neutral
+FB-1774,"Regarding the internship, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1775,"Overall, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1776,"In my experience, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1777,"Honestly, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1778,"In my experience, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1779,Submitting tasks and receiving verification certificates was very smooth.,Portal/LMS,Positive
+FB-1780,"In my experience, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1781,"Overall, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1782,"Overall, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1783,"Regarding the internship, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1784,"Honestly, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1785,"In my experience, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1786,"Overall, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1787,"Regarding the internship, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1788,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1789,"Regarding the internship, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1790,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-1791,"In my experience, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1792,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1793,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1794,"In my experience, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1795,"Regarding the internship, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1796,"Honestly, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1797,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-1798,"Honestly, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1799,"The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1800,"Overall, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1801,"Regarding the internship, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1802,"Honestly, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1803,The mentors were extremely supportive and answered queries within hours.,Mentorship,Positive
+FB-1804,"Overall, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1805,Frequent submission upload errors and portal timeouts near deadlines.,Portal/LMS,Negative
+FB-1806,"Regarding the internship, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1807,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1808,Task descriptions made it easy to deliver the required components step-by-step.,Task Clarity,Positive
+FB-1809,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1810,"In my experience, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1811,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1812,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1813,"Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1814,"Regarding the internship, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1815,Review feedback was superficial with no constructive code critiques.,Mentorship,Negative
+FB-1816,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-1817,"Honestly, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1818,"Overall, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1819,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1820,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1821,"In my experience, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1822,"Overall, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1823,"Regarding the internship, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1824,"In my experience, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1825,"In my experience, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1826,"In my experience, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1827,"Overall, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1828,"Overall, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1829,"Overall, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1830,"In my experience, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1831,"Overall, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1832,"Overall, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1833,"Overall, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1834,"Honestly, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1835,"Regarding the internship, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1836,"In my experience, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1837,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1838,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1839,"Overall, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1840,"In my experience, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1841,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1842,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1843,"Regarding the internship, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1844,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1845,"Overall, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1846,Mentors were inactive and unhelpful; blocker questions went unanswered for a week.,Mentorship,Negative
+FB-1847,"Overall, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1848,"In my experience, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1849,"Regarding the internship, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1850,"In my experience, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1851,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1852,"Overall, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1853,"Regarding the internship, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1854,"Regarding the internship, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1855,"In my experience, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-1856,"In my experience, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1857,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1858,"Overall, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1859,"Regarding the internship, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1860,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1861,"In my experience, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1862,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-1863,Certificate download link was broken and login sessions expired repeatedly.,Portal/LMS,Negative
+FB-1864,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1865,The dashboard kept crashing when trying to preview assignment status.,Portal/LMS,Negative
+FB-1866,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1867,Project assignments bridged the gap between academic theory and production.,Curriculum,Positive
+FB-1868,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1869,"Overall, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1870,"Honestly, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1871,"Overall, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1872,"Overall, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-1873,"Regarding the internship, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1874,"Overall, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1875,"Honestly, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1876,"Regarding the internship, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1877,"Regarding the internship, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1878,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1879,The assignment guidelines and acceptance criteria were clear and detailed.,Task Clarity,Positive
+FB-1880,"In my experience, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-1881,"Overall, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-1882,"Regarding the internship, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1883,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-1884,"In my experience, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1885,"Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1886,"Honestly, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-1887,"Overall, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1888,"Regarding the internship, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1889,"Honestly, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1890,Task descriptions made it easy to deliver the required components step-by-step.,Task Clarity,Positive
+FB-1891,Mentors were inactive and unhelpful; blocker questions went unanswered for a week.,Mentorship,Negative
+FB-1892,"Honestly, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1893,"In my experience, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1894,"In my experience, Review feedback was superficial with no constructive code critiques.",Mentorship,Negative
+FB-1895,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-1896,"In my experience, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1897,"Overall, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1898,The assignment guidelines and acceptance criteria were clear and detailed.,Task Clarity,Positive
+FB-1899,"Honestly, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1900,"Honestly, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1901,"Overall, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-1902,The assignment guidelines and acceptance criteria were clear and detailed.,Task Clarity,Positive
+FB-1903,"Regarding the internship, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1904,"In my experience, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1905,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1906,"In my experience, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1907,Balanced sprint cycles that helped maintain consistent progress.,Workload/Pacing,Positive
+FB-1908,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-1909,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1910,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-1911,"Honestly, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1912,"Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1913,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1914,"In my experience, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1915,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-1916,"Honestly, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1917,"Overall, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1918,"Regarding the internship, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-1919,"Regarding the internship, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-1920,"Regarding the internship, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1921,"Honestly, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1922,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1923,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-1924,"Overall, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1925,Average guidance; mostly referred to standard documentation links.,Mentorship,Neutral
+FB-1926,"Overall, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1927,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-1928,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1929,Tutorial resources were broken links and lacked modern framework coverage.,Curriculum,Negative
+FB-1930,"In my experience, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1931,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1932,"Overall, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1933,"In my experience, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1934,"Honestly, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1935,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1936,"In my experience, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-1937,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-1938,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-1939,"Honestly, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1940,"Regarding the internship, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1941,"Overall, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1942,"In my experience, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-1943,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1944,"Regarding the internship, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-1945,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1946,"Overall, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-1947,"Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-1948,"Honestly, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1949,"Overall, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1950,"Honestly, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1951,"Overall, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1952,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-1953,"Regarding the internship, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1954,Review feedback was superficial with no constructive code critiques.,Mentorship,Negative
+FB-1955,"Regarding the internship, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1956,Balanced sprint cycles that helped maintain consistent progress.,Workload/Pacing,Positive
+FB-1957,Mentors were inactive and unhelpful; blocker questions went unanswered for a week.,Mentorship,Negative
+FB-1958,"In my experience, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1959,"Regarding the internship, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1960,"Honestly, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1961,Loved how well-scoped the project deliverables were from day one.,Task Clarity,Positive
+FB-1962,"Regarding the internship, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-1963,"Honestly, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1964,"In my experience, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1965,"In my experience, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-1966,"Honestly, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-1967,"In my experience, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1968,"Overall, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-1969,"Regarding the internship, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1970,Frequent submission upload errors and portal timeouts near deadlines.,Portal/LMS,Negative
+FB-1971,Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.,Mentorship,Negative
+FB-1972,"Overall, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-1973,"Honestly, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-1974,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-1975,"Regarding the internship, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1976,"Overall, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1977,"Regarding the internship, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-1978,Excellent project roadmap covering complete end-to-end pipelines.,Curriculum,Positive
+FB-1979,"Overall, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-1980,"Honestly, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-1981,"Honestly, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-1982,"Regarding the internship, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1983,"Honestly, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-1984,"Honestly, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-1985,"In my experience, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-1986,"Regarding the internship, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-1987,Project assignments bridged the gap between academic theory and production.,Curriculum,Positive
+FB-1988,"Overall, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-1989,LMS resources were easy to navigate and accessible 24/7.,Portal/LMS,Positive
+FB-1990,"Overall, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-1991,"In my experience, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-1992,"In my experience, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1993,"Overall, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-1994,"In my experience, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-1995,"Regarding the internship, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-1996,"Regarding the internship, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-1997,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-1998,"Honestly, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-1999,"In my experience, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-2000,"Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-2001,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-2002,"In my experience, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-2003,"Honestly, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-2004,"In my experience, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-2005,"Regarding the internship, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-2006,Outdated library versions referenced in tasks caused dependency installation failures.,Curriculum,Negative
+FB-2007,"Regarding the internship, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-2008,"Regarding the internship, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-2009,"Honestly, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-2010,"Regarding the internship, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-2011,"In my experience, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-2012,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-2013,"Overall, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-2014,"Honestly, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-2015,"Overall, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-2016,"Regarding the internship, Excellent project roadmap covering complete end-to-end pipelines.",Curriculum,Positive
+FB-2017,"Overall, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-2018,"In my experience, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-2019,"Honestly, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-2020,"Honestly, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-2021,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-2022,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2023,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-2024,"Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-2025,"Regarding the internship, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-2026,"Regarding the internship, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-2027,"Honestly, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-2028,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-2029,"Overall, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-2030,LMS resources were easy to navigate and accessible 24/7.,Portal/LMS,Positive
+FB-2031,"Overall, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-2032,"Overall, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-2033,"The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-2034,"Overall, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-2035,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-2036,"Honestly, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2037,Great guidance from the lead engineer during weekly sync-ups.,Mentorship,Positive
+FB-2038,"Regarding the internship, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-2039,Task descriptions made it easy to deliver the required components step-by-step.,Task Clarity,Positive
+FB-2040,"Regarding the internship, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-2041,"Regarding the internship, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-2042,"Honestly, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-2043,The mentors were extremely supportive and answered queries within hours.,Mentorship,Positive
+FB-2044,Instructions were basic; required asking follow-up questions in the group.,Task Clarity,Neutral
+FB-2045,"Honestly, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-2046,"Regarding the internship, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-2047,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-2048,"Overall, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-2049,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-2050,"In my experience, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-2051,"Overall, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-2052,"Overall, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-2053,"Regarding the internship, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-2054,"Honestly, Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-2055,"Overall, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-2056,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-2057,"Regarding the internship, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-2058,"Honestly, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-2059,"Regarding the internship, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-2060,"In my experience, Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-2061,Balanced sprint cycles that helped maintain consistent progress.,Workload/Pacing,Positive
+FB-2062,"In my experience, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-2063,"Regarding the internship, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-2064,"In my experience, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-2065,Curriculum is standard; covers typical scikit-learn and web basics.,Curriculum,Neutral
+FB-2066,"Overall, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-2067,"Regarding the internship, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-2068,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-2069,"Overall, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-2070,"Regarding the internship, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-2071,"Regarding the internship, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-2072,"Overall, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-2073,"Overall, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-2074,"Regarding the internship, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-2075,"Overall, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2076,"In my experience, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-2077,"Regarding the internship, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-2078,"Honestly, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-2079,Certificate download link was broken and login sessions expired repeatedly.,Portal/LMS,Negative
+FB-2080,"Regarding the internship, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-2081,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-2082,LMS resources were easy to navigate and accessible 24/7.,Portal/LMS,Positive
+FB-2083,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-2084,"In my experience, Curriculum is standard; covers typical scikit-learn and web basics.",Curriculum,Neutral
+FB-2085,"Regarding the internship, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-2086,"In my experience, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-2087,"The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-2088,Project assignments bridged the gap between academic theory and production.,Curriculum,Positive
+FB-2089,"Overall, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-2090,"Regarding the internship, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-2091,"Honestly, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-2092,"Honestly, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-2093,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2094,"Decent introductory materials, but lacks advanced deployment topics.",Curriculum,Neutral
+FB-2095,"Regarding the internship, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-2096,"Honestly, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-2097,Balanced sprint cycles that helped maintain consistent progress.,Workload/Pacing,Positive
+FB-2098,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-2099,Instructions were basic; required asking follow-up questions in the group.,Task Clarity,Neutral
+FB-2100,"Honestly, Certificate download link was broken and login sessions expired repeatedly.",Portal/LMS,Negative
+FB-2101,"Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-2102,"Overall, Usable LMS, though notification alerts occasionally fail to trigger.",Portal/LMS,Neutral
+FB-2103,Excessive volume of deliverables required within an unreasonable two-day window.,Workload/Pacing,Negative
+FB-2104,"Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-2105,"The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-2106,"Overall, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-2107,"Honestly, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-2108,"Overall, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-2109,"Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-2110,"The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-2111,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-2112,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2113,"Regarding the internship, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-2114,"Overall, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-2115,"The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-2116,"In my experience, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-2117,Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.,Workload/Pacing,Negative
+FB-2118,"Regarding the internship, Task descriptions made it easy to deliver the required components step-by-step.",Task Clarity,Positive
+FB-2119,"Honestly, The mentors were extremely supportive and answered queries within hours.",Mentorship,Positive
+FB-2120,"Overall, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-2121,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-2122,"In my experience, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-2123,"Honestly, Instructions were basic; required asking follow-up questions in the group.",Task Clarity,Neutral
+FB-2124,Unrealistic deadlines for complex projects causing significant burnout.,Workload/Pacing,Negative
+FB-2125,The dashboard kept crashing when trying to preview assignment status.,Portal/LMS,Negative
+FB-2126,"In my experience, Feedback was okay, though fairly generic on automated submissions.",Mentorship,Neutral
+FB-2127,"Overall, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-2128,Requirements contradicted each other between the portal description and task PDF.,Task Clarity,Negative
+FB-2129,"Honestly, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-2130,"In my experience, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-2131,"Regarding the internship, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2132,"In my experience, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-2133,"Honestly, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2134,"Overall, The dashboard kept crashing when trying to preview assignment status.",Portal/LMS,Negative
+FB-2135,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2136,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-2137,"Overall, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-2138,Task descriptions made it easy to deliver the required components step-by-step.,Task Clarity,Positive
+FB-2139,The mentors were extremely supportive and answered queries within hours.,Mentorship,Positive
+FB-2140,"Honestly, Mentors are helpful when available, but responses sometimes take a couple of days.",Mentorship,Neutral
+FB-2141,"Honestly, Outdated library versions referenced in tasks caused dependency installation failures.",Curriculum,Negative
+FB-2142,"Overall, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-2143,"Regarding the internship, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-2144,"Overall, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-2145,"Overall, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-2146,"Regarding the internship, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-2147,"In my experience, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-2148,"Overall, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-2149,"Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-2150,"Supervisor provided thorough feedback during code reviews, which accelerated my learning.",Mentorship,Positive
+FB-2151,"Overall, LMS resources were easy to navigate and accessible 24/7.",Portal/LMS,Positive
+FB-2152,"Regarding the internship, Project assignments bridged the gap between academic theory and production.",Curriculum,Positive
+FB-2153,"Honestly, Lacked mentor support when pipeline bugs arose; had to self-troubleshoot entirely.",Mentorship,Negative
+FB-2154,"Regarding the internship, Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-2155,"Honestly, Excessive volume of deliverables required within an unreasonable two-day window.",Workload/Pacing,Negative
+FB-2156,"The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-2157,"Overall, Vague task prompts with ambiguous grading criteria and missing starter files.",Task Clarity,Negative
+FB-2158,The pacing allowed adequate room for research and proper debugging.,Workload/Pacing,Positive
+FB-2159,"Honestly, Average guidance; mostly referred to standard documentation links.",Mentorship,Neutral
+FB-2160,"Regarding the internship, Frequent submission upload errors and portal timeouts near deadlines.",Portal/LMS,Negative
+FB-2161,"Honestly, Unrealistic deadlines for complex projects causing significant burnout.",Workload/Pacing,Negative
+FB-2162,"Honestly, The pacing allowed adequate room for research and proper debugging.",Workload/Pacing,Positive
+FB-2163,Deadlines were manageable alongside university coursework.,Workload/Pacing,Positive
+FB-2164,"In my experience, Workload was moderate, though two tasks overlapped in week 3.",Workload/Pacing,Neutral
+FB-2165,"Honestly, Portal works fine, though loading task attachments can be sluggish.",Portal/LMS,Neutral
+FB-2166,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-2167,"In my experience, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-2168,"Regarding the internship, The problem statement was clear, though edge cases were omitted.",Task Clarity,Neutral
+FB-2169,"In my experience, Deadlines are reasonable, though sprint cadence felt a bit tight.",Workload/Pacing,Neutral
+FB-2170,"Sufficient details, but an architectural diagram would have helped.",Task Clarity,Neutral
+FB-2171,"Honestly, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
+FB-2172,"Regarding the internship, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-2173,"In my experience, The portal UI was smooth, responsive, and tracking submissions was seamless.",Portal/LMS,Positive
+FB-2174,"In my experience, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-2175,"Overall, Tutorial resources were broken links and lacked modern framework coverage.",Curriculum,Negative
+FB-2176,"In my experience, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-2177,"Honestly, Instructions were unclear, making it confusing to know what deliverables were expected.",Task Clarity,Negative
+FB-2178,"Overall, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-2179,"Overall, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-2180,Excessive volume of deliverables required within an unreasonable two-day window.,Workload/Pacing,Negative
+FB-2181,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-2182,"Honestly, Pacing is acceptable if you already have prior Python exposure.",Workload/Pacing,Neutral
+FB-2183,"In my experience, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-2184,"Overall, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2185,"Honestly, Deadlines were manageable alongside university coursework.",Workload/Pacing,Positive
+FB-2186,"Honestly, Pacing was erratic; idle for two weeks then hit with multiple heavy deadlines.",Workload/Pacing,Negative
+FB-2187,"Honestly, Requirements contradicted each other between the portal description and task PDF.",Task Clarity,Negative
+FB-2188,"Honestly, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2189,"Overall, The curriculum felt repetitive and lacked practical engineering depth.",Curriculum,Negative
+FB-2190,"Overall, The real-world tech stack with FastAPI, React, and ML was practical.",Curriculum,Positive
+FB-2191,"Honestly, The assignment guidelines and acceptance criteria were clear and detailed.",Task Clarity,Positive
+FB-2192,"Regarding the internship, Standard submission dashboard; gets the job done without issues.",Portal/LMS,Neutral
+FB-2193,"In my experience, Mentors were inactive and unhelpful; blocker questions went unanswered for a week.",Mentorship,Negative
+FB-2194,"In my experience, Balanced sprint cycles that helped maintain consistent progress.",Workload/Pacing,Positive
+FB-2195,Certificate download link was broken and login sessions expired repeatedly.,Portal/LMS,Negative
+FB-2196,"Regarding the internship, Practical content, though similar to standard online tutorials.",Curriculum,Neutral
+FB-2197,"In my experience, Great guidance from the lead engineer during weekly sync-ups.",Mentorship,Positive
+FB-2198,"Regarding the internship, Loved how well-scoped the project deliverables were from day one.",Task Clarity,Positive
+FB-2199,"Regarding the internship, Submitting tasks and receiving verification certificates was very smooth.",Portal/LMS,Positive
